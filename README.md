@@ -1,27 +1,27 @@
-# Hi, I'm Abdirahman Abdullahi
+# 👋 Hi, I'm Abdirahman Abdullahi
 
 **MSc Data Science (Merit)** — Manchester Metropolitan University  
 **BSc Biology (First Class, 87%)** — Manchester Metropolitan University  
-**AutoTrader UK Hackathon Winner (2025)**
+**🏆 AutoTrader UK Hackathon Winner (2025)**
 
 **Specializations:** Interpretable Machine Learning | Data Quality Engineering | Scientific Analytics
 
 ---
 
-## About Me
+## 🚀 About Me
 
 I bridge **laboratory precision** and **machine learning rigor** — moving from 3 years managing clinical lab data to building interpretable AI models for medical imaging. I specialize in making black-box models explainable for high-stakes decisions in **healthcare and regulated industries**.
 
 My work focuses on the intersection of **model performance** and **model transparency**, ensuring that AI systems are not only accurate but also auditable and trustworthy in safety-critical applications.
 
 **Currently working on:**
-- Interpretable ML models for lung cancer CT screening (96.7% accuracy with GRAD-CAM explainability)
-- NLP benchmark dataset: 50K+ automotive listings across 8 text domains (AutoTrader UK collaboration)
-- Data pipeline reproducibility and PySpark automation for clinical research workflows
+- 🫁 Interpretable ML models for lung cancer CT screening (96.7% accuracy with GRAD-CAM explainability)
+- 🚗 NLP benchmark dataset: 50K+ automotive listings across 8 text domains (AutoTrader UK collaboration)
+- 🔄 Data pipeline reproducibility and PySpark automation for clinical research workflows
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Programming Languages:** Python | R | SQL  
 **ML/Data Libraries:** scikit-learn | pandas | NumPy | matplotlib | seaborn | PySpark (developing)  
@@ -30,7 +30,7 @@ My work focuses on the intersection of **model performance** and **model transpa
 
 ---
 
-## Key Achievements
+## 🏆 Key Achievements
 
 **AutoTrader UK Hackathon Winner (2025)**  
 Built an end-to-end interpretable ML pipeline for automotive text classification. Presented technical approach and business value to industry judges, competing against 12 university teams.
@@ -46,33 +46,33 @@ Completed formal training in project lifecycle management, stakeholder communica
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
-### Lung-RADS CT Classification (MSc Dissertation)
+### 🫁 Lung-RADS CT Classification (MSc Dissertation)
 Explainable multiclass machine learning model for lung cancer screening assessment. Implemented GRAD-CAM visualizations to highlight diagnostically relevant image regions. Achieved 96.7% validation accuracy while maintaining model interpretability for clinical review.
 
 **Tech stack:** Python | scikit-learn | TensorFlow | OpenCV | SHAP
 
-### NLP Dataset for Automotive Sentiment Analysis
+### 🔤 NLP Dataset for Automotive Sentiment Analysis
 Co-created and preprocessed a multi-domain dataset of 50K+ vehicle listings for model benchmarking. Developed data quality pipelines to ensure label consistency and domain balance. Dataset submitted to LREC 2025 for publication.
 
 **Tech stack:** Python | pandas | spaCy | regex | data validation frameworks
 
-### Data Quality Dashboard for Institutional Research
+### 📊 Data Quality Dashboard for Institutional Research
 Automated Excel/Python hybrid tool to validate clinical research datasets and flag anomalies in real-time. Reduced manual QA time by 60% and improved data submission accuracy for regulatory reporting.
 
 **Tech stack:** Python | pandas | openpyxl | Excel VBA | automated testing
 
 ---
 
-## Professional Background
+## 💼 Professional Background
 
 **Laboratory Scientist** — UKAS-accredited pathology laboratory (3 years)  
 Managed clinical data workflows, quality control protocols, and regulatory compliance documentation. Developed Excel-based automation tools for sample tracking and anomaly detection.
 
 ---
 
-## Publications & Presentations
+## 📚 Publications & Presentations
 
 **Under Review**  
 Abdullahi, A. et al. (2025). "Interpretable Machine Learning for Lung-RADS Classification in CT Screening." *BMC Medical Imaging* (lead author).
@@ -85,7 +85,7 @@ Co-author on NLP benchmark dataset paper submitted to *LREC 2025 Conference*.
 
 ---
 
-## Connect
+## 🤝 Connect
 
 **LinkedIn:** [linkedin.com/in/abdirahman-abdullahi](https://www.linkedin.com/in/abdirahman-abdullahi)  
 **Email:** AbdiRahman.data.612@gmail.com  
@@ -93,9 +93,9 @@ Co-author on NLP benchmark dataset paper submitted to *LREC 2025 Conference*.
 
 ---
 
-**Current Focus:** Seeking Data Scientist / ML Engineer roles in healthcare, aviation, or regulated industries where interpretability and data integrity are mission-critical.
+**🔍 Current Focus:** Seeking Data Scientist / ML Engineer roles in healthcare, aviation, or regulated industries where interpretability and data integrity are mission-critical.
 
 ---
 
-*"Evidence-based decisions only matter when they're explainable, interpretable, and built on trustworthy data."*
+⭐ *"Evidence-based decisions only matter when they're explainable, interpretable, and built on trustworthy data."*
 
